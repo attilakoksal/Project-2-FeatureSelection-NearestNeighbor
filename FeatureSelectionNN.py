@@ -14,8 +14,6 @@ print('\n')
 
 if('small' in nameInput):
     index_dataset = 0
-elif('XXXlarge' in nameInput):
-    index_dataset = 2
 elif('large' in nameInput):
     index_dataset = 1
 else:
